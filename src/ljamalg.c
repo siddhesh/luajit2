@@ -87,3 +87,4 @@
 #include "lib_ffi.c"
 #include "lib_init.c"
 
+#include "lj_init.c"
